@@ -1,5 +1,5 @@
 ### May the force be with you... force of .Net and Swift
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElysiumWhale)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElysiumWhale&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ElysiumWhale/ElysiumWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
