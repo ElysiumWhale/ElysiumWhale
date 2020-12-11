@@ -3,7 +3,7 @@
 <p>
   <img src="https://img.shields.io/badge/-Swift-orange"/>
   <img src="https://img.shields.io/badge/-C%23-blue"/>
-  <img src="https://img.shields.io/badge/-C%23-blue"/>
+  <img src="https://img.shields.io/badge/-.Net-blue"/>
   <img src="https://img.shields.io/badge/-WPF-blue"/>
 </p>
 <!--
