@@ -1,5 +1,5 @@
 
-### May the force be with you... force of <img src="https://img.shields.io/badge/-.Net-blue"/> and <img src="https://img.shields.io/badge/-Swift-orange"/>
+### May the force be with you... force of <img src="https://img.shields.io/badge/-Swift-orange"/>!
 ![Alexey's github stats](https://github-readme-stats.vercel.app/api?username=ElysiumWhale&count_private=true&hide=contribs,stars&show_icons=true&theme=vue)
 <p>
   <img src="https://img.shields.io/badge/-Swift-orange"/>
